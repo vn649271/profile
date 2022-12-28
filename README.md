@@ -62,23 +62,23 @@ Rabat, Morocco
 ### Screenshots for my some products: 
 #### Reputation Tracking System on Harmony blockchain
 Skills used: React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, web3.js and smart contracts in Solidity for Harmony blockchain
- ![](https://github.com/vn649271/Portfolio/blob/main/images/OneRep-1.png)
+ ![](https://github.com/vn649271/profile/blob/main/images/OneRep-1.png)
 
- ![](https://github.com/vn649271/Portfolio/blob/main/images/OneRep-2.png)
+ ![](https://github.com/vn649271/profile/blob/main/images/OneRep-2.png)
 
- ![](https://github.com/vn649271/Portfolio/blob/main/images/OneRep-3.png)
+ ![](https://github.com/vn649271/profile/blob/main/images/OneRep-3.png)
 
- ![](https://github.com/vn649271/Portfolio/blob/main/images/OneRep-4.png)
+ ![](https://github.com/vn649271/profile/blob/main/images/OneRep-4.png)
 
 #### Staking Site on BSC
 Skills used: React.js, Redux, Tailwind CSS and web3.js and smart contracts in Solidity for Binance Smart Chain and Ethereum
- ![](https://github.com/vn649271/Portfolio/blob/main/images/ViccStaking-1.png)
+ ![](https://github.com/vn649271/profile/blob/main/images/ViccStaking-1.png)
 
- ![](https://github.com/vn649271/Portfolio/blob/main/images/ViccStaking-2.png)
+ ![](https://github.com/vn649271/profile/blob/main/images/ViccStaking-2.png)
 
 #### Melsa Game and launcher 1
 Skills used: C++, Qt
- ![](https://github.com/vn649271/Portfolio/blob/main/images/Melsa-1.png)
+ ![](https://github.com/vn649271/profile/blob/main/images/Melsa-1.png)
  
 
 #### Melsa Game and launcher 2
