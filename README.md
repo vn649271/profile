@@ -29,14 +29,15 @@ Rabat, Morocco
 		GCC, C++ and C#						5 years		Current
 		HTML5, JavaScript, CSS					5 years		Current
 		jQuery/ jQuery UI, Ajax and JSON			4 years		Current
-		React.js, Redux, TailwindCSS, Node.js and Express	4 years		Current
+		React.js, Redux, Node.js and Express			4 years		Current
+		TailwindCSS						2 years		Current
 		Python, Flask and Django				4 years		Current
 		PHP, Laravel 						5 years		Current
-		.NET Framework						5 years		Current
+		.NET 							5 years		Current
 		Visual C++ & MFC					5 years		Current
 		Web3.js, Solidity, Ethereum and BSC			3 years		Current
 		UniSwap & OpenZeppelin					2 years		Current
-		Rust & Solana						2 years 	Current
+		Rust & Solana						2.5 years 	Current
 		Google Cloud Platform					3 years		Current
 		NFT marketplace						2 years		Current
 		SQLite, MySQL, MongoDB and Firebase			5 years		Current
